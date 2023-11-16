@@ -1,0 +1,92 @@
+.headet{
+    display: flex;
+    color: black;
+    margin-top: 20px;
+    
+    
+}
+input{
+    width: 400px;
+    height: 24px;
+    background-color: rgb(249, 246, 246);
+
+}
+header a{
+    color: rgb(205, 201, 201);
+    margin-right: 10px;
+    text-decoration: none;
+}
+.div{
+    margin-top: 4px;
+    margin-left: 10px;
+}
+.div2{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+ header main section a{
+    text-decoration: none;
+ }
+ img{
+    height: 80px;
+    width: 90px;
+    margin-top: 30px;
+    
+    
+    
+ }
+ 
+    
+    
+    
+ }
+ section{
+    display: flex;
+ }
+ obwi{
+    display: flex;
+    padding-bottom: 60px;
+}
+a{
+    text-decoration: none;
+    margin: 4px;
+    color: rgb(192, 192, 192);
+}
+.oo{
+    padding: 5px;
+    height: 100px;
+    padding-bottom: 50px;
+}
+body{
+    margin-left: 100px;
+}
+.iconlar{
+    margin-left: 240px;
+}
+.sup{
+    color: orange;
+}
+.hr3{
+    color: orange;
+    width: 20px;
+}
+.divb{
+    display: flex;
+    flex-direction: column;
+}
+.foot{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+.salam{
+    position: relative;
+    margin-bottom: 20px;
+}
+.salam i {
+    position: absolute;
+    top: 23%;
+    right: 10px;
+    color: orange;
+    
+}
